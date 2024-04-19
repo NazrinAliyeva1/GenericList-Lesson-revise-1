@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\GenericList\GenericList\bin\Debug\net6.0\GenericList.exe
+C:\Users\99455\source\repos\GenericList\GenericList\bin\Debug\net6.0\GenericList.deps.json
+C:\Users\99455\source\repos\GenericList\GenericList\bin\Debug\net6.0\GenericList.runtimeconfig.json
+C:\Users\99455\source\repos\GenericList\GenericList\bin\Debug\net6.0\GenericList.dll
+C:\Users\99455\source\repos\GenericList\GenericList\bin\Debug\net6.0\GenericList.pdb
+C:\Users\99455\source\repos\GenericList\GenericList\obj\Debug\net6.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\GenericList\GenericList\obj\Debug\net6.0\GenericList.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\GenericList\GenericList\obj\Debug\net6.0\GenericList.AssemblyInfo.cs
+C:\Users\99455\source\repos\GenericList\GenericList\obj\Debug\net6.0\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\GenericList\GenericList\obj\Debug\net6.0\GenericList.dll
+C:\Users\99455\source\repos\GenericList\GenericList\obj\Debug\net6.0\refint\GenericList.dll
+C:\Users\99455\source\repos\GenericList\GenericList\obj\Debug\net6.0\GenericList.pdb
+C:\Users\99455\source\repos\GenericList\GenericList\obj\Debug\net6.0\GenericList.genruntimeconfig.cache
+C:\Users\99455\source\repos\GenericList\GenericList\obj\Debug\net6.0\ref\GenericList.dll
